@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto de Automação</h1>
 
 Descrição: 
-<br>
+<br/>
 Jornada Python da Hashtag:
 Imagine que você tenha produtos, preços ou qualquer tipo de informação que precisa cadastrar em um sistema, imagine que você tem 500 informações, você perderia até alguns dias de trabalho fazendo esse processo. Porém nesse projeto vamos automatizar um processo desses utilizando o Python.
 
